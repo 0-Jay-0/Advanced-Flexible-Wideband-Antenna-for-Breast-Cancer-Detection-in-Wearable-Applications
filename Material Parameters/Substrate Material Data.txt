@@ -1,0 +1,24 @@
+Jeans:
+K = 1.7
+LT = 0.025
+t = 1 mm
+
+Felt:
+K = 2.5
+LT = 0.023
+t = 1 mm
+
+Cotton:
+K = 1.6
+LT = 0.02
+t = 0.8 mm
+
+Jute:
+K = 1.87
+LT = 0.052
+t = 0.7 mm
+
+Rogers RT/duroid 5880:
+K = 2.2
+LT = 0.0009
+t = 1.6 mm
